@@ -40,7 +40,7 @@ Predict a genre:
 python src/predict.py "audio_file.wav"
 ```
 
-## 🧪 Tests
+##  Tests
 ```bash
 python -m pytest tests/ -v
 ```
